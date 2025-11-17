@@ -1,1 +1,11 @@
-# repo-template
+
+  # Debora
+
+  This is a code bundle for Debora. The original project is available at https://www.figma.com/design/ACLt5IWprlNOxJu7a4NwQ2/Debora.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
